@@ -1,0 +1,19 @@
+{
+  "id": "2ccf27af-17b6-4186-8bf7-e2b04fa2f030",
+  "name": "78.DevelopmentReport",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "target": "OnPrem"
+}
